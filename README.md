@@ -38,15 +38,24 @@ To use the OOP Email Simulator, follow these steps:
 ## Usage
 1. **Read an Email:**
    - Select option 1 to view and interact with emails in the Inbox.
+    ![image](https://github.com/loizoud94/loizoulogiclabOOP/assets/152619396/46d9e509-0b41-4786-908f-e1053e2b6f8c)
 
 2. **View Unread Emails:**
    - Select option 2 to display a list of unread emails in the Inbox.
 
+   <img width="220" alt="Screenshot 2024-01-19 at 17 31 42" src="https://github.com/loizoud94/loizoulogiclabOOP/assets/152619396/b2cbf644-4df6-4616-883e-1e8ab953b020">
+
+
 3. **View Junk Folder:**
    - Select option 3 to view emails in the Junk Folder. Move emails back to the Inbox if needed.
+   
+     <img width="235" alt="Screenshot 2024-01-19 at 17 31 57" src="https://github.com/loizoud94/loizoulogiclabOOP/assets/152619396/2113c115-415c-4e97-8d4f-5eff8ddeb094">
+
 
 4. **View Deleted Folder:**
    - Select option 4 to view emails in the Deleted Folder. Retrieve or permanently delete emails as desired.
+<img width="242" alt="Screenshot 2024-01-19 at 17 32 12" src="https://github.com/loizoud94/loizoulogiclabOOP/assets/152619396/70977302-f88d-4a3b-acb3-be351db478bb">
+
 
 5. **Quit Application:**
    - Select option 5 to exit the program.

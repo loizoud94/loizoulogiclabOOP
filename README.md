@@ -1,5 +1,3 @@
-Certainly! Here's the README in Markdown syntax:
-
 # loizoulogiclabOOP
 
 ## Overview
